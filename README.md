@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there, I’m Wendy 👋  
+🎓 Computer Science, Applied Math, & Data Science @ Seattle Pacific University  
+💡 Interested in software development and data  
 
-<!--
-**wharosas23/wharosas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Projects:
+- TrayMate – Meal ordering app for assisted living
+- Go Parser – Built a parser in Go
+- Mancala in Rust – Game implementation
 
-Here are some ideas to get you started:
+🛠 Tech:
+R, Python, C++, Rust, Go, SQL, React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:
+LinkedIn: https://www.linkedin.com/in/wharenasrosas/
