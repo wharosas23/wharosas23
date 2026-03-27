@@ -8,7 +8,7 @@ Hi there, I’m Wendy 👋
 - Mancala in Rust – Game implementation
 
 🛠 Tech:
-R, Python, C++, Rust, Go, SQL, React Native
+R, Python, C++, Rust, Go, SQL, React Native, Power BI
 
 📫 Connect with me:
 LinkedIn: https://www.linkedin.com/in/wharenasrosas/
