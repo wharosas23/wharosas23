@@ -3,7 +3,7 @@ Hi there, I’m Wendy 👋
 💡 Interested in software development and data  
 
 🚀 Projects:
-- TrayMate – Meal ordering app for assisted living
+- TrayMate – Meal ordering app for assisted living (in progress)
 - Go Parser – Built a parser in Go
 - Mancala in Rust – Game implementation
 
