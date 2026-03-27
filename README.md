@@ -11,4 +11,5 @@ Hi there, I’m Wendy 👋
 R, Python, C++, Rust, Go, SQL, React Native, Power BI
 
 📫 Connect with me:
+
 LinkedIn: https://www.linkedin.com/in/wharenasrosas/
